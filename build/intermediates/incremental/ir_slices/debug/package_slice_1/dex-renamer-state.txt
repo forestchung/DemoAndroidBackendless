@@ -1,0 +1,4 @@
+#Sun Mar 24 14:52:50 CST 2019
+base.0=D\:\\Dropbox\\Courses\\IS4032\\1819B\\DemoAndroidBackendless\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+path.0=classes.dex
+renamed.0=classes.dex
